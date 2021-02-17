@@ -14,9 +14,10 @@ def program():
     print("Hello Word!")
 
 def connect():
+    URL = "Your Pastebin RAW URL here"
     hwid = subprocess.check_output('wmic csproduct get uuid').decode().split('\n')[1].strip()
 
-    rq = requests.get('https://www.google.com/')
+    rq = requests.get(url)
 
     if rq.status_code == 404:
         print(f'{Fore.LIGHTRED_EX}The URL provided is invalid')
