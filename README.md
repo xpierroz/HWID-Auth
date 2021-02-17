@@ -1,2 +1,0 @@
-# HWID-Auth
-🍌
