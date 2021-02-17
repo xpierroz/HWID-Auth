@@ -8,3 +8,11 @@ To use, create a paste in `https://pastebin.com/` enter every HWID you want, and
 Change the "URL" string to your pastebin URL
 
 Make sure to leave a star if it's helping you ⭐️
+
+# Necessary Install
+
+
+```
+pip install colorama
+pip install requests
+```
