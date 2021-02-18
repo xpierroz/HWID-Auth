@@ -16,3 +16,6 @@ Make sure to leave a star if it's helping you ⭐️
 pip install colorama
 pip install requests
 ```
+
+# PasteBIN
+Some country are blocked for pastebin, so you can use another website
