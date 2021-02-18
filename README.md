@@ -17,5 +17,5 @@ pip install colorama
 pip install requests
 ```
 
-# PasteBIN
+# PasteBin
 Some country are blocked for pastebin, so you can use another website
